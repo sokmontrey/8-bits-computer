@@ -25,6 +25,8 @@ TODO: Reset pin
 >	2. STEP_RESET
 >	3. FLAG_RESET
 >	4. CLK_STOP
+> 
+> D is EEPROM chip
 
 | Address | D1 (left) | D2 (mid) | D3 (right) |
 | -- | -- | -- | -- |
